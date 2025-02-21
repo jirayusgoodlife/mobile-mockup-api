@@ -1,9 +1,9 @@
 {
-    "lab03":{
-    "status":"ok",
+  "lab03": {
+    "status": "ok",
     "user_data": {
       "name": "Mr. Software Engineer",
-      "picutre": "https://se.buu.ac.th/logo-se.jpg"
+      "picture": "https://se.buu.ac.th/logo-se.jpg"
     },
     "data": [
       {
@@ -77,5 +77,5 @@
         ]
       }
     ]
-    }
+  }
 }
