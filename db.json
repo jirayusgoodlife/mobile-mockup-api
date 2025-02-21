@@ -1,0 +1,79 @@
+{
+    "status":"ok",
+    "user_data": {
+      "name": "Mr. Software Engineer",
+      "picutre": "https://se.buu.ac.th/logo-se.jpg"
+    },
+    "data": [
+      {
+        "group_name": "สถานที่ท่องเที่ยว",
+        "list": [
+          {
+            "image": "https://fastly.picsum.photos/id/73/200/300.jpg?hmac=18C0Ky7sRbCcHNCGBISk2jzYf6gPrAJCyHxKbLKcu20",
+            "title": "หัวข้อ 01",
+            "detail": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quae cum dixisset paulumque institisset, Quid est? Illa argumenta propria videamus, cur omnia sint paria peccata. Honesta oratio, Socratica, Platonis etiam."
+          },
+          {
+            "image": "https://fastly.picsum.photos/id/26/200/300.jpg?hmac=E9i_aIqa_ifLvxqI2b1QTLCnhGQYJ83IpvaDfFM54bU",
+            "title": "หัวข้อ 02",
+            "detail": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quae cum dixisset paulumque institisset, Quid est? Illa argumenta propria videamus, cur omnia sint paria peccata. Honesta oratio, Socratica, Platonis etiam."
+          },
+          {
+            "image": "https://fastly.picsum.photos/id/533/200/300.jpg?hmac=eehg5zb3wyJViBC8IiDL85fqqk9z85uHtRciYvDovgA",
+            "title": "หัวข้อ 03",
+            "detail": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quae cum dixisset paulumque institisset, Quid est? Illa argumenta propria videamus, cur omnia sint paria peccata. Honesta oratio, Socratica, Platonis etiam."
+          },
+          {
+            "image": "https://fastly.picsum.photos/id/959/200/300.jpg?hmac=q2WZ7w-aqWQyUVa4vEv-28yCS6TLS-M19or3y7YVvso",
+            "title": "หัวข้อ 04",
+            "detail": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quae cum dixisset paulumque institisset, Quid est? Illa argumenta propria videamus, cur omnia sint paria peccata. Honesta oratio, Socratica, Platonis etiam."
+          },
+          {
+            "image": "https://fastly.picsum.photos/id/490/200/300.jpg?hmac=8hYDsOwzzMCthBMYMN9bM6POtrJfVAmsvamM2oOEiF4",
+            "title": "หัวข้อ 05",
+            "detail": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quae cum dixisset paulumque institisset, Quid est? Illa argumenta propria videamus, cur omnia sint paria peccata. Honesta oratio, Socratica, Platonis etiam."
+          },
+          {
+            "image": "https://fastly.picsum.photos/id/935/200/300.jpg?hmac=XPPjHEBtYb6Y3-p1EjAP0RRB0bNlvqCs52VIysO7iH0",
+            "title": "หัวข้อ 06",
+            "detail": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quae cum dixisset paulumque institisset, Quid est? Illa argumenta propria videamus, cur omnia sint paria peccata. Honesta oratio, Socratica, Platonis etiam."
+          }
+        ]
+      },
+      {
+        "group_name": "ธรรมชาติ",
+        "list": [
+          {
+            "image": "https://fastly.picsum.photos/id/132/200/300.jpg?hmac=oY1bslA1BJLjQ_GRTPoSm_Mtps2WtlDyfll3uIayrVQ",
+            "title": "หัวข้อ 01",
+            "detail": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quae cum dixisset paulumque institisset, Quid est? Illa argumenta propria videamus, cur omnia sint paria peccata. Honesta oratio, Socratica, Platonis etiam."
+          },
+          {
+            "image": "https://fastly.picsum.photos/id/451/200/300.jpg?hmac=I8NLrhKLa1kmeJm2G28UsnA6fiV7Hg5LpGPHpLgde-M",
+            "title": "หัวข้อ 02",
+            "detail": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quae cum dixisset paulumque institisset, Quid est? Illa argumenta propria videamus, cur omnia sint paria peccata. Honesta oratio, Socratica, Platonis etiam."
+          },
+          {
+            "image": "https://fastly.picsum.photos/id/13/200/300.jpg?hmac=UHtWCvsKxIfcA_gIse7Rc6MH6nI3OGl0dzaCSSsYqas",
+            "title": "หัวข้อ 03",
+            "detail": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quae cum dixisset paulumque institisset, Quid est? Illa argumenta propria videamus, cur omnia sint paria peccata. Honesta oratio, Socratica, Platonis etiam."
+          },
+          {
+            "image": "https://fastly.picsum.photos/id/1078/200/300.jpg?hmac=cIIdxycLQ-pOopDajDdPoOPwl9nnMld2aG58k8IgyX4",
+            "title": "หัวข้อ 04",
+            "detail": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quae cum dixisset paulumque institisset, Quid est? Illa argumenta propria videamus, cur omnia sint paria peccata. Honesta oratio, Socratica, Platonis etiam."
+          },
+          {
+            "image": "https://fastly.picsum.photos/id/156/200/300.jpg?hmac=_jUswTiDxrGuGLgKw8LAVJu8snR4TPMwLrDqrcqpMu0",
+            "title": "หัวข้อ 05",
+            "detail": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quae cum dixisset paulumque institisset, Quid est? Illa argumenta propria videamus, cur omnia sint paria peccata. Honesta oratio, Socratica, Platonis etiam."
+          },
+          {
+            "image": "https://fastly.picsum.photos/id/1037/200/300.jpg?hmac=4eugJlD2Tm8e9ZZIDrSXnYPKNyVQ9Mm58HkQrLYBy1c",
+            "title": "หัวข้อ 06",
+            "detail": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quae cum dixisset paulumque institisset, Quid est? Illa argumenta propria videamus, cur omnia sint paria peccata. Honesta oratio, Socratica, Platonis etiam."
+          }
+        ]
+      }
+    ]
+  }
