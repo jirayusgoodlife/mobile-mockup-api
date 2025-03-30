@@ -1,0 +1,31 @@
+{
+  "name": "mobile-mockup-api",
+  "version": "0.67.2",
+  "description": "example api for mobile flutter",
+  "type": "module",
+  "private": true,
+  "main": "app.js",
+  "scripts": {
+    "dev": "nodemon app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jirayusgoodlife/mobile-mockup-api.git"
+  },
+  "keywords": [
+    "mockup",
+    "api"
+  ],
+  "author": "Jirayus Arbking",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jirayusgoodlife/mobile-mockup-api/issues"
+  },
+  "homepage": "https://github.com/jirayusgoodlife/mobile-mockup-api#readme",
+  "dependencies": {
+    "@fastify/rate-limit": "^10.2.2",
+    "fastify": "^5.2.2",
+    "nodemon": "^3.1.9"
+  }
+}
