@@ -24,6 +24,7 @@
   },
   "homepage": "https://github.com/jirayusgoodlife/mobile-mockup-api#readme",
   "dependencies": {
+    "@fastify/cors": "^11.0.1",
     "@fastify/rate-limit": "^10.2.2",
     "fastify": "^5.2.2",
     "nodemon": "^3.1.9"

@@ -4,6 +4,11 @@ const fastify = Fastify({
     logger: true
 })
 
+await fastify.register(import('@fastify/cors'), {
+    origin: "*", // Allows all origins
+    methods: ["GET", "POST", "PUT", "DELETE", "OPTIONS"] // Allowed HTTP methods
+});
+
 await fastify.register(import('@fastify/rate-limit'), {
     max: 200,
     timeWindow: '1 minute'
